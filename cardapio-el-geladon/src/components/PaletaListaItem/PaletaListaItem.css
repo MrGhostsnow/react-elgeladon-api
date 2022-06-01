@@ -6,6 +6,7 @@
     height: 160px;
     display: flex;
     justify-content: space-around;
+    cursor: pointer;
   }
   
   @media (max-width: 400px) {
